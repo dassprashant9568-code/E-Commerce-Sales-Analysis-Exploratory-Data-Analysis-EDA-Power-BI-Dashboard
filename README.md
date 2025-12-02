@@ -1,0 +1,2 @@
+# E-Commerce-Sales-Analysis-Exploratory-Data-Analysis-EDA-Power-BI-Dashboard
+This repository contains a complete Exploratory Data Analysis (EDA) and Power BI Dashboard built to analyze the performance of an e-commerce fashion company. The goal of this analysis was to uncover insights related to sales trends, category performance, SKU demand, courier efficiency, cancellations, and customer buying behavior.
